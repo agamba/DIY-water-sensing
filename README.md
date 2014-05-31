@@ -11,7 +11,6 @@
 
     This following code adapts published at:
 
-
     
     2012
     Environmental Monitoring with Arduino
