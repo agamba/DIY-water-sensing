@@ -8,10 +8,10 @@
     University of Toronto
     
     May, 2014
-    
-    
 
-    The following code adapts code published at:
+    This following code adapts published at:
+
+
     
     2012
     Environmental Monitoring with Arduino
@@ -19,4 +19,9 @@
     Chapter 5
     Project: Water Conductivity/Numerical Output
     
+	Water Conductivity Monitor
+	Sketch for an Arduino gadget that measures the electrical
+	conductivity of water.
+	This example code is based on example code that is in the public domain.
+
 ****************************************************
